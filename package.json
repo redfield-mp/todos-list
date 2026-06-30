@@ -1,6 +1,6 @@
 {
-  "name": "react_redux-list-of-todos",
-  "homepage": "react_redux-list-of-todos",
+  "name": "todos-list",
+  "homepage": "todos-list",
   "version": "0.1.0",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.5.2",
